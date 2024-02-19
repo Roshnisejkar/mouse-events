@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin:0;
+    background: url('https://img.freepik.com/free-vector/minimal-cat-background-line-art-illustration-vector_53876-151371.jpg');  
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* or any other value according to your requirement */
+    text-align: center;
+    display: flex;
+}
+
+h1{
+    font-size: 6.5em;;
+    margin-right: 16px;
+    -webkit-text-stroke: 2px black;
+    color:white    
+}
+
+p{
+    font-size: 4em;;
+    -webkit-text-stroke: 2px black;
+    color:white ;
+    margin-bottom: -0%;   
+}
+
